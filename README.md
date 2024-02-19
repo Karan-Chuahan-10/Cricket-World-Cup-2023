@@ -21,6 +21,7 @@ https://app.powerbi.com/groups/me/reports/530838ad-9964-4d51-8299-f40937c545ae/R
 This repository contains a Power BI visualization dashboard analyzing the Cricket World Cup 2023. Leveraging data from the tournament, this interactive dashboard provides insights into match statistics, player performances, team standings, and more. Whether you're a cricket enthusiast, a data analyst, or simply curious about the world of sports analytics, this project offers a comprehensive view of one of cricket's most prestigious events. Explore the data, uncover trends, and gain deeper insights into the thrilling moments of the 2023 Cricket World Cup.
 
 ## Screenshots
+
 ## Technologies
 - **Microsoft Excel:** Excel is utilized for data preparation tasks such as importing raw data, cleaning and transforming data, and performing preliminary analysis. It provides a familiar and versatile environment for handling structured data efficiently.
 
