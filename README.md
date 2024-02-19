@@ -9,7 +9,6 @@ https://app.powerbi.com/groups/me/reports/530838ad-9964-4d51-8299-f40937c545ae/R
 [About The Project] (#about—the—project)
 [Screenshots] (#screenshots)
 [Technologies] (#technologies)
-[Setup] (#setup)
 [Approach] (#approach)
 [Key Features] (#key features)
 [Benefits] (#benefits)
